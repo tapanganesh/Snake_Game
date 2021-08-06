@@ -3,15 +3,18 @@ This is source code for a simple snake game using C++
 
 
 Controls:
- w -> up;
+
+
+ w -> up
  
  
- s -> down;
+ s -> down
  
- a -> left;
+
+ a -> left
  
  
- d -> right;
+ d -> right
 
 You can run this is your local system and have some fun!!
 
