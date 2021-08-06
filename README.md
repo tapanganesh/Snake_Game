@@ -16,5 +16,5 @@ Controls:
  
  d -> right
 
-You can run this is your local system and have some fun!!
+You can run this on your local system and have some fun!!
 
